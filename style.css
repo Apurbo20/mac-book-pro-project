@@ -1,0 +1,24 @@
+ /* Custom styling  */
+.memory{
+    margin-top: 10%;
+}
+.storage{
+    margin-top: 10%;
+}
+.delivery{
+    margin-top: 10%;
+}
+.price-Table-container{
+    margin-top: 10%;
+
+}
+.promo-code-container{
+    margin-top: 2%;
+}
+hr{
+    margin-left: 90px; 
+    margin-right: 90px; 
+ }
+footer{
+    margin-top: 10%;
+}
